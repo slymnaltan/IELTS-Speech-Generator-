@@ -2,6 +2,8 @@
 
 An AI-powered IELTS Speaking test simulator that generates realistic dialogues based on user-provided topics.
 
+<img width="1920" height="1080" alt="Ekran Görüntüsü (21)" src="https://github.com/user-attachments/assets/b040f621-f702-4630-8fe4-13a980fccedc" />
+
 ## Features
 - Topic-based speaking dialogue generation
 - Examiner and Candidate role simulation
